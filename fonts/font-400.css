@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Objective-Regular';
+  src: url('Objective-Regular.eot');
+  src: url('Objective-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Objective-Regular.svg#Objective-Regular') format('svg'),
+       url('Objective-Regular.ttf') format('truetype'),
+       url('Objective-Regular.woff') format('woff'),
+       url('Objective-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

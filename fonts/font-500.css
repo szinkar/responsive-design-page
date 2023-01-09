@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Objective-Medium';
+  src: url('Objective-Medium.eot');
+  src: url('Objective-Medium.eot?#iefix') format('embedded-opentype'),
+       url('Objective-Medium.svg#Objective-Medium') format('svg'),
+       url('Objective-Medium.ttf') format('truetype'),
+       url('Objective-Medium.woff') format('woff'),
+       url('Objective-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

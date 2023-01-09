@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Objective-Bold';
+  src: url('Objective-Bold.eot');
+  src: url('Objective-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Objective-Bold.svg#Objective-Bold') format('svg'),
+       url('Objective-Bold.ttf') format('truetype'),
+       url('Objective-Bold.woff') format('woff'),
+       url('Objective-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
